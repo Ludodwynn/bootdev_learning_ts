@@ -1,1 +1,0 @@
-Bootdev course on Typescript
